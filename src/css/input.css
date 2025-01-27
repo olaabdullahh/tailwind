@@ -1,6 +1,4 @@
 @import "tailwindcss";
-@plugin "flowbite/plugin";
-@source "../node_modules/flowbite";
 
 @media (max-width: 580px) {
   nav ul {
